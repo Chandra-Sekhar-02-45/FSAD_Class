@@ -1,0 +1,14 @@
+html,body{
+  margin: 10px;
+  width: 100%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 9pt;
+}
+#root{
+  width: 100%;
+  height: 100%;
+}
+:focus{
+  outline:block;
+}
+
