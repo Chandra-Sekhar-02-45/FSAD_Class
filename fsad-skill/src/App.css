@@ -67,3 +67,38 @@
   font-weight: bold;
   color: rgb(13,130,104);
 }
+
+.content .searchbar{
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+.content .searchText{
+  width: 300px;
+  height: 40px;
+  border-radius: 20px;
+  border: none;
+  border-radius: 1px solid aqua;
+  font-size: 12pt;
+  background-color: rgb(218, 179, 255);
+  background:url('/ICONS/searchicon.png') no-repeat;
+  background-size: 40px 30px;
+  padding-left: 40px;
+  background-position: 0px center;
+}
+
+.content .searchlocation{
+  width: 300px;
+  height: 40px;
+  border-radius: 20px;
+  border: none;
+  border-radius: 1px solid aqua;
+  font-size: 12pt;
+  background-color: rgb(218, 179, 255);
+  background:url('/ICONS/location.png') no-repeat;
+  background-size: 40px 30px;
+  padding-left: 40px;
+  background-position: 0px center;
+}
