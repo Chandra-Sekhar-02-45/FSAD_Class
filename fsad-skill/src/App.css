@@ -42,3 +42,28 @@
   width: 30px;
   height: 30px;
 }
+
+.content  .text1{
+  top: 30px;
+  margin-left: 10px;
+  display: block;
+  font-size: 25pt;
+  font-weight: bold;
+  color: rgb(13,130,104);
+}
+.content  .text2{
+  top: 30px;
+  margin-left: 10px;
+  display: block;
+  font-size: 25pt;
+  font-weight: bold;
+  color: rgb(13,130,104);
+}
+.content  .text3{
+  top: 30px;
+  margin-left: 10px;
+  display: block;
+  font-size: 25pt;
+  font-weight: bold;
+  color: rgb(13,130,104);
+}
