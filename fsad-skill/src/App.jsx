@@ -21,11 +21,15 @@ function App() {
           <div className='text1'>Worlds best platform for searching your jobs</div>
           <div className='text2'>Get your job now</div>
           <div className='text3'>NOW AVAILABLE</div>
-          <div className='searchbar'>
+          <div className='mainsearch'>
+            <div className='searchbar'>
                     <input type="text" className='searchText' placeholder='Search by skill' />
                     <input type="text" className='searchlocation' placeholder='Search by Location'/>
-                    <button className='searchButton'>Search Jobs</button>
             </div> 
+            <button className='searchButton'>Search Jobs</button>
+          </div>
+          
+            
         </div>
         <div className="footer">
             <h2>Follow Us</h2>
