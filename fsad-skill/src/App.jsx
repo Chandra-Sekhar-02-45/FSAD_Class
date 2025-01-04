@@ -31,8 +31,9 @@ function App() {
             </div>
             <div className='placeholder'>
               <input type="text" className='searchText' placeholder='Search by skill' />
-            </div>
-      
+              <input type="text" className='searchlocation' placeholder='Search by Location'/>
+              <button className='searchButton'>Search Jobs</button>
+            </div> 
         </div>
       </div>
     </>
