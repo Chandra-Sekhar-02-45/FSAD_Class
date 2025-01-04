@@ -34,6 +34,7 @@ function App() {
                   <img className="social" src="ICONS/facebook.png" alt="" />
                   <img className="social" src="ICONS/twitter.png" alt="" />
                 </div>
+                
             
         </div>
       </div>
